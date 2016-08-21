@@ -1,0 +1,16 @@
+---
+title: "HouTax: ETL and OTP Demo"
+layout: post
+date: 2016-08-21 13:30
+tag: elixir, otp, civic data, etl, erlang
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "OTP and ETL exercise to deserialize several large CSVs, perform transformations, and encode into JSON."
+author: geoff
+externalLink: "https://github.com/GeoffreyPS/HouTax"
+---
+
+HouTax - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple ETL exercise leveraging OTP.
+
+---
