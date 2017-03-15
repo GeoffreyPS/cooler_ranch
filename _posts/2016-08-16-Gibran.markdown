@@ -1,0 +1,12 @@
+---
+title: "Gibran: Natural Language Processing in Elixir"
+layout: post
+date: 2016-08-16 13:30
+tag: elixir, NLP
+headerImage: true
+projects: true
+description: "Natural Language Processing in Elixir"
+hidden: true # don't count this post in blog pagination
+author: geoff
+externalLink: "https://github.com/abitdodgy/gibran"
+---
