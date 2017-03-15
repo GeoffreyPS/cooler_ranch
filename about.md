@@ -46,6 +46,8 @@ language processing.</p>
 
 <ul>
 	<li><a href="https://www.meetup.com/Houston-Elixir-Meetup/">Houston Elixir Meetup</a></li>
+	<li><a href="https://github.com/abitdodgy/gibran">Gibran</a>: a Natural Language Processing Library (contributor)</li>
+	<li><a href="https://github.com/hawthornehaus/statisaur">Statisaur</a>: a Library for Statistics (contributor)</li>
 	<li><a href="https://github.com/GeoffreyPS/HouTax">HouTax - ETL and OTP Exercise</a></li>
 	<li><a href="https://www.fresharts.org/events/secret-sandwich">Secret Sandwich Exhibition with Cat Juice Zine</a></li>
 	<li><a href="http://imagesgohere.tumblr.com/">Images Go Here: Collected Arts Writing from 2011-2014</a></li>
