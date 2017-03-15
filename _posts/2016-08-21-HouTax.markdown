@@ -11,6 +11,6 @@ author: geoff
 externalLink: "https://github.com/GeoffreyPS/HouTax"
 ---
 
-HouTax - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple ETL exercise leveraging OTP.
+HouTax - [Demo](https://github.com/GeoffreyPS/HouTax). This is a simple ETL exercise leveraging OTP.
 
 ---
