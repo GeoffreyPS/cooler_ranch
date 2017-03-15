@@ -22,16 +22,11 @@ and annual Gala committees.</p>
 Throughout 2014 and 2015, Geoff worked with Sidereal Labs and focused on natural 
 language processing.</p>
 
-<h2>Webdev and Programming Skills</h2>
+<h2>Programming Skills</h2>
 
 <ul class="skill-list">
 	<li>Elixir - Erlang - OTP </li>
 	<li>Ruby</li>
-	<li>HTML - Eex - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Sass)</li>
-	<li>Css Frameworks (Bootstrap)</li>
-	<li>Just Enough Javascript</li>
 	<li>Git</li>
 	<li>TDD and Continuous Integration</li>
 	<li>Adobe Creative Suite & Manuscript Layout</li>
@@ -50,6 +45,7 @@ language processing.</p>
 <h2>Projects</h2>
 
 <ul>
+	<li><a href="https://www.meetup.com/Houston-Elixir-Meetup/">Houston Elixir Meetup</a></li>
 	<li><a href="https://github.com/GeoffreyPS/HouTax">HouTax - ETL and OTP Exercise</a></li>
 	<li><a href="https://www.fresharts.org/events/secret-sandwich">Secret Sandwich Exhibition with Cat Juice Zine</a></li>
 	<li><a href="http://imagesgohere.tumblr.com/">Images Go Here: Collected Arts Writing from 2011-2014</a></li>
