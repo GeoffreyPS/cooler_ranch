@@ -50,3 +50,6 @@ Throughout 2014 and 2015, Geoff worked with Sidereal Labs and focused on natural
 	<li><a href="https://www.fresharts.org/events/secret-sandwich">Secret Sandwich Exhibition with Cat Juice Zine</a></li>
 	<li><a href="http://imagesgohere.tumblr.com/">Images Go Here: Collected Arts Writing from 2011-2014</a></li>
 </ul>
+
+## Resume
+- <a href="../assets/resume/resume.pdf">June 2017 Resume</a>
